@@ -1,4 +1,4 @@
----
+--
 title: Searching on GitHub
 mapTopic: true
 redirect_from:
